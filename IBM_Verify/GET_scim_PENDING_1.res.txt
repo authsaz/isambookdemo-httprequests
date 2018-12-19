@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+connection: close
+content-language: en-US
+content-type: application/scim+json
+date: Wed, 05 Dec 2018 13:12:46 GMT
+location: https://api-gateway.authsaz.com:444/scim/Users/dXNlcjE
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+cache-control: private, max-age=0, no-cache
+expires: Thu, 01 Dec 1994 16:00:00 GMT
+x-xss-protection: 1; mode=block
+content-security-policy: default-src 'self' 'unsafe-inline' 'unsafe-eval'
+strict-transport-security: max-age=31536000; includeSubDomains
+Set-Cookie: JSESSIONID=0000fFBTxAmrUov9-coYe7MxjBe:751340c4-9448-4619-90b6-1c8306f18777; Path=/; Secure; HttpOnly
+
+{"meta":{"location":"https:\/\/api-gateway.authsaz.com:444\/scim\/Users\/dXNlcjE","resourceType":"User"},"schemas":["urn:ietf:params:scim:schemas:core:2.0:User","urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Transaction"],"id":"dXNlcjE","urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Transaction":{"attributesPending":[],"transactionsPending":[]},"userName":"user1"}

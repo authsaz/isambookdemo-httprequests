@@ -1,0 +1,11 @@
+PATCH /scim/Me?attributes=urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Authenticator:userPresenceMethods HTTP/1.1
+Accept: application/json
+Authorization: bearer 2VXMU47GoZ1ly8h1g5Fe
+Content-Type: application/json
+Content-Length: 678
+Host: api-gateway.authsaz.com:444
+Connection: close
+Accept-Encoding: gzip, deflate
+User-Agent: okhttp/3.10.0
+
+{"schemas":["urn:ietf:params:scim:api:messages:2.0:PatchOp"],"Operations":[{"op":"add","path":"urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Authenticator:userPresenceMethods","value":[{"keyHandle":"userPresence","algorithm":"SHA256withRSA","publicKey":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4EkZiclRwqq\/vw6CdkMEYY45fm829AuGRzBRK1Thx5yg1\/ORWRM3QtYmG9VGaHwwDtju4WsZWjog90\/Rn26OXuYRoqb1lXEcsy3ccKlGSqj9SOmqE7ZoD5bRRk57OGlxwj6t+mGpIBmMiiGNsKtsQ2iqUtPM6KINXYRlQFIDldWsiPCgbL8Cyc5DGQc5YHF6A+PI5UrUG7sUD8WA9b+zKDXbTwFJzt0GNxClC2riOAhQSwB3KaAM1VrCYi5CW9l8tHrjp14KZQbBk4oPbX2Le\/85eKmaGJgVw3Au3zvCKS8b3SVrCmriPAxbwoT5p9mO65zsDAwMGgARwpaF3zA0PQIDAQAB","enabled":true}]}]}

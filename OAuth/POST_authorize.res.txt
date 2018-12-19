@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+connection: close
+content-language: en-US
+date: Wed, 05 Dec 2018 14:11:53 GMT
+location: http://merchant.authsaz.com:5000/callback?state=123&code=tw35CaYSRPkNGP3iNyDquSAMD29qMo
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-store
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+

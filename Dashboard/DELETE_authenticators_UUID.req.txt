@@ -1,0 +1,12 @@
+DELETE /mga/sps/mmfa/user/mgmt/authenticators/uuid32a70b0b-aa60-4747-8d9a-09e9cfe1d314 HTTP/1.1
+Host: dashboard.authsaz.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+Referer: https://dashboard.authsaz.com/portal/user
+DNT: 1
+Connection: close
+Cookie: PD-S-SESSION-ID=1_2_1_p-HF6TOe1xaMQzPM460WRIMxAGfo6rAsy5j4S3hs3B4pp8ab; AMWEBJCT!%2Fmga!JSESSIONID=0000s1dpsU59kr6TWGrGYjpHDyY:f3c034c4-3c28-4c59-96fb-165d960b2aba; PD_STATEFUL_fcbb493e-f62a-11e8-8e4e-000c296c8bdd=%2Fmga
+

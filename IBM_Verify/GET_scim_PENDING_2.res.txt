@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+connection: close
+content-language: en-US
+content-type: application/scim+json
+date: Wed, 05 Dec 2018 13:13:36 GMT
+location: https://api-gateway.authsaz.com:444/scim/Users/dXNlcjE
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+cache-control: private, max-age=0, no-cache
+expires: Thu, 01 Dec 1994 16:00:00 GMT
+x-xss-protection: 1; mode=block
+content-security-policy: default-src 'self' 'unsafe-inline' 'unsafe-eval'
+strict-transport-security: max-age=31536000; includeSubDomains
+Set-Cookie: JSESSIONID=0000i-ZLXuEiibvkgHNYECyoBJN:751340c4-9448-4619-90b6-1c8306f18777; Path=/; Secure; HttpOnly
+
+{"meta":{"location":"https:\/\/api-gateway.authsaz.com:444\/scim\/Users\/dXNlcjE","resourceType":"User"},"schemas":["urn:ietf:params:scim:schemas:core:2.0:User","urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Transaction"],"id":"dXNlcjE","urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Transaction":{"attributesPending":[{"dataType":"String","values":["Verify the transaction"],"name":"mmfa.request.context.message","uri":"mmfa:request:context:message","transactionId":"fe86208d-62b3-4152-ae83-2227c122ad62"},{"dataType":"String","values":["false"],"name":"mmfa.request.push.notification.sent","uri":"mmfa:request:push:notification:sent","transactionId":"fe86208d-62b3-4152-ae83-2227c122ad62"},{"dataType":"String","values":["uuid6a065141-214b-485c-ac32-d103c89b5ecf"],"name":"mmfa.request.authenticator.id","uri":"mmfa:request:authenticator:id","transactionId":"fe86208d-62b3-4152-ae83-2227c122ad62"}],"transactionsPending":[{"authnPolicyAction":"POST","txnStatus":"PENDING","creationTime":"2018-12-05T13:13:30.823Z","requestUrl":"https:\/\/api-gateway.authsaz.com:444\/mga\/sps\/apiauthsvc?MmfaTransactionId=FE86208D-62B3-4152-AE83-2227C122AD62","authnPolicyURI":"urn:ibm:security:authentication:asf:mmfa_user_presence_response","lastActivityTime":"2018-12-05T13:13:31.178Z","transactionId":"fe86208d-62b3-4152-ae83-2227c122ad62"}]},"userName":"user1"}

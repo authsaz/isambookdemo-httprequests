@@ -1,0 +1,10 @@
+POST /mga/sps/oauth/oauth20/token HTTP/1.1
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 512
+Host: api-gateway.authsaz.com:444
+Connection: close
+Accept-Encoding: gzip, deflate
+User-Agent: okhttp/3.10.0
+
+refresh_token=PBlWL6A5eyPP24VRgSNvhaJ4DSyFUEpQ0TnUxWcF&client_id=AuthenticatorClient&grant_type=refresh_token&scope=mmfaAuthn&device_type=foobar&tenant_id=6b7f3094-6fa6-4fe8-8159-c1c494d5a718&verify_sdk_version=2.0.2&fingerprint_support=false&device_id=69d28bda-c700-4ebc-80d8-38f77b31a526&application_version=2.0.4&front_camera_support=true&device_name=foobar&push_token=null%3Anull&face_support=false&os_version=6.0.1&application_id=com.ibm.security.verifyapp&platform_type=Android&account_name=user1

@@ -1,0 +1,10 @@
+POST /mga/sps/oauth/oauth20/token HTTP/1.1
+Host: api-gateway.authsaz.com
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 145
+Accept: application/json
+User-Agent: python-requests/2.2.1 CPython/3.4.3 Linux/4.2.0-27-generic
+Connection: close
+
+client_secret=8jNcmGcjpyTN0HmL1aG8&refresh_token=fqAhOtFc62xvCrKY8YaxPT8b2L74XyKbw4mcs8t8&client_id=jSNhWHOviWPzcqlB3u81&grant_type=refresh_token

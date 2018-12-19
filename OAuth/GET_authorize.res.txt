@@ -1,0 +1,8 @@
+HTTP/1.1 302 Found
+connection: close
+content-language: en-US
+date: Wed, 05 Dec 2018 14:10:19 GMT
+location: https://api-gateway.authsaz.com/mga/sps/auth
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+strict-transport-security: max-age=31536000; includeSubDomains
+

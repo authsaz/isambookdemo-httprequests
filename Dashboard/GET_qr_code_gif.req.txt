@@ -1,0 +1,11 @@
+GET /mga/sps/mmfa/user/mgmt/qr_code?code=rkZ0C5MlANfPkjxAU3osmMbuelI6jp&client_id=AuthenticatorClient HTTP/1.1
+Host: dashboard.authsaz.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://dashboard.authsaz.com/portal/user
+DNT: 1
+Connection: close
+Cookie: PD-S-SESSION-ID=1_2_1_Ol31qw4UrjmA5wFdg3cwjXC44ovK11eGDzHy5-HVtuozKLc4; AMWEBJCT!%2Fmga!JSESSIONID=0000s1dpsU59kr6TWGrGYjpHDyY:f3c034c4-3c28-4c59-96fb-165d960b2aba; PD_STATEFUL_fcbb493e-f62a-11e8-8e4e-000c296c8bdd=%2Fmga
+

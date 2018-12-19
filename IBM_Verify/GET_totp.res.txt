@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+connection: close
+content-language: en-US
+content-type: application/json
+date: Wed, 05 Dec 2018 13:12:36 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-store, no-cache=set-cookie
+expires: Thu, 01 Dec 1994 16:00:00 GMT
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+
+{"period":"30","secretKeyUrl":"otpauth:\/\/totp\/Example:user1?secret=IQCHCLPPF4DWVFKX&issuer=Example","secretKey":"IQCHCLPPF4DWVFKX","digits":"6","username":"user1","algorithm":"HmacSHA1"}

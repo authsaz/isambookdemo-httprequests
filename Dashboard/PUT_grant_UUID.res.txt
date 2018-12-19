@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+connection: close
+content-language: en-US
+content-type: application/json
+date: Wed, 19 Dec 2018 07:04:12 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-store
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+
+{"result":"FBTRBA199I The authorization grant uuidbb2475cc-0167-1175-9268-e97d8f2488e1 was updated successfully."}

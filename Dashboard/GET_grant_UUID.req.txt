@@ -1,0 +1,11 @@
+GET /mga/sps/mga/user/mgmt/grant/uuid7eb63808-0167-159b-ba5f-f6b664eaa832 HTTP/1.1
+Host: dashboard.authsaz.com
+Connection: close
+Accept: */*
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+Referer: https://dashboard.authsaz.com/portal/user
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PD_STATEFUL_fcbb493e-f62a-11e8-8e4e-000c296c8bdd=%2Fmga; AMWEBJCT!%2Fmga!JSESSIONID=0000zuFG7H25dpr_5TzTjS1aEBq:ca746416-0a09-4937-ac1d-dd66c0bd5fa2:751340c4-9448-4619-90b6-1c8306f18777; PD-S-SESSION-ID=1_2_1_f1m6z43gV8gT91Xh9wfyR-XwXpK4JsdZgnwfTSbQlFBhzU8-
+

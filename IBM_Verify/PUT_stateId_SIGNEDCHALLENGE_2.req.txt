@@ -1,0 +1,11 @@
+PUT /mga/sps/apiauthsvc?StateId=7be54b10-7908-41a9-9ef8-e4eca1e591e6 HTTP/1.1
+Accept: application/json
+Authorization: Bearer zJGsgElnp3iDp3lGhL4I
+Content-Type: application/json
+Content-Length: 372
+Host: api-gateway.authsaz.com:444
+Connection: close
+Accept-Encoding: gzip, deflate
+User-Agent: okhttp/3.10.0
+
+{"signedChallenge":"eAJvSqtd4sN5YJQM1wtVEK\/u2IgQ0os\/VsIhPNb51G8kEOfv2+EvRh19JHZZJIp4A9R+wouh5\/APIgHQINPnef4LQslyv0KDj8TIthJ+duwC6H98bu9rTWVMYQ7SzRqz+ufrfTaYqr1K4k0IJaaDTSw+EkC4Bf76SNpR6k7OQompowWN6EaG9NGrwYm8tm4xmgkA39UV2K9KwNT3X4pOT4waQ7UTTwFCiMlDpm\/9EBYbbFmyfZsKeHyJNWo7IGDODQ7H8MBeSHHTFYroqgZ93qRDQqHC5aEsGKdG+\/DSRYubcuNw4GWfL\/eIT4PSpFTYgcDLIR0wQphlsgBqvAxSxw=="}

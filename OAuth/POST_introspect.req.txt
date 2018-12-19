@@ -1,0 +1,10 @@
+POST /mga/sps/oauth/oauth20/introspect HTTP/1.1
+Host: api-gateway.authsaz.com
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 92
+Accept: application/json
+User-Agent: python-requests/2.2.1 CPython/3.4.3 Linux/4.2.0-27-generic
+Connection: close
+
+client_secret=8jNcmGcjpyTN0HmL1aG8&client_id=jSNhWHOviWPzcqlB3u81&token=t5zc0icigqa5G68BUr2J

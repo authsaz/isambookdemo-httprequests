@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+connection: close
+content-language: en-US
+content-type: application/json;charset=UTF-8
+date: Wed, 05 Dec 2018 13:12:03 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-store, no-cache=set-cookie
+expires: Thu, 01 Dec 1994 16:00:00 GMT
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+Set-Cookie: AMWEBJCT!%2Fmga!JSESSIONID=0000ymgnYM4ev64GoyS2HSeUCFO:751340c4-9448-4619-90b6-1c8306f18777; Path=/; HttpOnly
+Set-Cookie: PD_STATEFUL_42b1c924-f629-11e8-bbe9-000c296c8bdd=%2Fmga; Path=/
+
+{"access_token":"TSUnjPisxzd3jJ9KN61p","refresh_token":"6NBpCSLmZsE6D904HpGGCzjxNXM6BFoKUz37vYLo","scope":"mmfaAuthn","authenticator_id":"uuid6b74457d-53cb-4575-88d8-4fd01545996f","token_type":"bearer","display_name":"user1","expires_in":3599}

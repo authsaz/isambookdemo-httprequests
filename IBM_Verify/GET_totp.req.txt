@@ -1,0 +1,9 @@
+GET /mga/sps/mga/user/mgmt/otp/totp HTTP/1.1
+Accept: application/json
+Authorization: bearer 2VXMU47GoZ1ly8h1g5Fe
+Content-Type: application/json
+Host: api-gateway.authsaz.com:444
+Connection: close
+Accept-Encoding: gzip, deflate
+User-Agent: okhttp/3.10.0
+

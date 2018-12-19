@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+connection: close
+content-language: en-US
+content-type: application/json
+date: Wed, 05 Dec 2018 13:12:24 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-store, no-cache=set-cookie
+expires: Thu, 01 Dec 1994 16:00:00 GMT
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+Set-Cookie: AMWEBJCT!%2Fmga!JSESSIONID=0000FO9Vx4WAKN3p4TPEOr3Vq2m:751340c4-9448-4619-90b6-1c8306f18777; Path=/; HttpOnly
+Set-Cookie: PD_STATEFUL_42b1c924-f629-11e8-bbe9-000c296c8bdd=%2Fmga; Path=/
+
+{"authntrxn_endpoint":"https:\/\/api-gateway.authsaz.com:444\/scim\/Me?attributes=urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Transaction:transactionsPending,urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Transaction:attributesPending","metadata":{},"discovery_mechanisms":["urn:ibm:security:authentication:asf:mechanism:mobile_user_approval:fingerprint","urn:ibm:security:authentication:asf:mechanism:mobile_user_approval:user_presence","urn:ibm:security:authentication:asf:mechanism:totp"],"enrollment_endpoint":"https:\/\/api-gateway.authsaz.com:444\/scim\/Me","hotp_shared_secret_endpoint":"https:\/\/api-gateway.authsaz.com:444\/mga\/sps\/mga\/user\/mgmt\/otp\/hotp","totp_shared_secret_endpoint":"https:\/\/api-gateway.authsaz.com:444\/mga\/sps\/mga\/user\/mgmt\/otp\/totp","token_endpoint":"https:\/\/api-gateway.authsaz.com:444\/mga\/sps\/oauth\/oauth20\/token"}

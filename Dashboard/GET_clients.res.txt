@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+connection: close
+content-language: en-US
+content-type: application/json
+date: Wed, 19 Dec 2018 06:16:23 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-store
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+
+{"clients":[{"owner":"user1","clientId":"myVu0gWM2XnHAhsUZNrX","data":{"registration_client_uri":"https:\/\/isam.authsaz.com\/mga\/sps\/oauth\/oauth20\/register\/AppsRegister?client_id=myVu0gWM2XnHAhsUZNrX","redirect_uris":["http:\/\/someapp.authsaz.com\/callback"],"client_id_issued_at":1545199606,"client_secret":"NpZ7JHdT3Tg2Wt9jXksL","client_name":"someApp"},"definitionId":2}],"username":"user1"}

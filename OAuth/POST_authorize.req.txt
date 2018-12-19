@@ -1,0 +1,16 @@
+POST /mga/sps/oauth/oauth20/authorize HTTP/1.1
+Host: api-gateway.authsaz.com
+Connection: close
+Content-Length: 111
+Cache-Control: max-age=0
+Origin: https://api-gateway.authsaz.com
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: https://api-gateway.authsaz.com/mga/sps/auth
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PD_STATEFUL_fcbb493e-f62a-11e8-8e4e-000c296c8bdd=%2Fmga; IV_JCT=%2Fmga; PD_STATEFUL_42b1c924-f629-11e8-bbe9-000c296c8bdd=%2Fmga; AMWEBJCT!%2Fmga!JSESSIONID=000085_kKeuoOMG9qoNizN3A6as:ca746416-0a09-4937-ac1d-dd66c0bd5fa2:bb19efb5-795b-4191-a4cd-82908eba1d0e:751340c4-9448-4619-90b6-1c8306f18777; PD-S-SESSION-ID=1_2_1_qEwwtS8vJMTRYB7E0dpcJ6dGTesmGA5j+e9foYXwelfIJx2r
+
+scope=financial&scope=non-financial&consent_form_verifier=8QW5eCugylBvvNMeWyjB&trust_level=permit&submit=Submit

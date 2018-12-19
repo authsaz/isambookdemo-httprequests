@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+connection: close
+content-language: en-US
+content-type: application/json
+date: Wed, 19 Dec 2018 06:16:35 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-store
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+
+[{"device_name":"abcdx","oauth_grant":"uuidc0d93c91-0167-17fc-bba4-fa5f6aec82e0","auth_methods":[{"key_handle":"fingerprint","id":"uuid9222ab2b-d244-4aa7-8ddf-9505dbfb0619","type":"fingerprint","enabled":true,"algorithm":"SHA256withRSA"},{"key_handle":"userPresence","id":"uuida0bd547b-4d25-4d45-a014-3887d0ddddc5","type":"user_presence","enabled":true,"algorithm":"SHA256withRSA"}],"os_version":"6.0.1","device_type":"foobar","id":"uuid32a70b0b-aa60-4747-8d9a-09e9cfe1d314","enabled":true}]

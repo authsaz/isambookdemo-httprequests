@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+connection: close
+content-language: en-US
+content-type: application/json
+date: Wed, 05 Dec 2018 14:36:54 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-store
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+
+{"id":"uuid7eb63808-0167-159b-ba5f-f6b664eaa832","isEnabled":true,"clientId":"jSNhWHOviWPzcqlB3u81","tokens":[{"type":"access_token","subType":"bearer","dateCreated":"2018-12-05T14:12:10Z","lifetime":3600,"lastUsed":"2018-12-05T14:12:10Z","scope":"financial,non-financial"},{"type":"authorization_grant","subType":"refresh_token","dateCreated":"2018-12-05T14:12:10Z","lifetime":604799,"lastUsed":"2018-12-05T14:12:10Z","scope":"financial,non-financial"}],"attributes":[]}

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+connection: close
+content-language: en-US
+content-type: application/scim+json
+date: Wed, 05 Dec 2018 13:12:41 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+cache-control: private, max-age=0, no-cache
+expires: Thu, 01 Dec 1994 16:00:00 GMT
+x-xss-protection: 1; mode=block
+content-security-policy: default-src 'self' 'unsafe-inline' 'unsafe-eval'
+strict-transport-security: max-age=31536000; includeSubDomains
+Set-Cookie: JSESSIONID=0000W2L3JU75ljsh0Xu5x7eMd07:751340c4-9448-4619-90b6-1c8306f18777; Path=/; Secure; HttpOnly
+
+{"totalResults":1,"schemas":["urn:ietf:params:scim:api:messages:2.0:ListResponse"],"Resources":[{"meta":{"location":"https:\/\/api-gateway.authsaz.com:444\/scim\/Users\/dXNlcjE","resourceType":"User"},"id":"dXNlcjE","userName":"user1","urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Authenticator":{"fingerprintMethods":[{"id":"uuidc9f9d305-e5ca-49ff-bf8f-040863f62510","keyHandle":"fingerprint","authenticator":"uuid6b74457d-53cb-4575-88d8-4fd01545996f","enabled":true,"algorithm":"SHA256withRSA"},{"id":"uuidae7a71b8-44e4-4b32-b168-129704aec7ec","keyHandle":"fingerprint","authenticator":"uuid6a065141-214b-485c-ac32-d103c89b5ecf","enabled":true,"algorithm":"SHA256withRSA"}]}}]}

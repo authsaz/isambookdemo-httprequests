@@ -1,0 +1,11 @@
+PATCH /scim/Me?attributes=urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Authenticator:authenticators HTTP/1.1
+Accept: application/json
+Authorization: Bearer zJGsgElnp3iDp3lGhL4I
+Content-Type: application/json
+Content-Length: 231
+Host: api-gateway.authsaz.com:444
+Connection: close
+Accept-Encoding: gzip, deflate
+User-Agent: okhttp/3.10.0
+
+{"schemas":["urn:ietf:params:scim:api:messages:2.0:PatchOp"],"Operations":[{"op":"remove","path":"urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Authenticator:authenticators[id eq uuidfbf1d73a-a025-4411-bae7-8b72ec3c0616]"}]}

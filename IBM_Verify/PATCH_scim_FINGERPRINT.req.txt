@@ -1,0 +1,11 @@
+PATCH /scim/Me?attributes=urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Authenticator:fingerprintMethods HTTP/1.1
+Accept: application/json
+Authorization: bearer 2VXMU47GoZ1ly8h1g5Fe
+Content-Type: application/json
+Content-Length: 676
+Host: api-gateway.authsaz.com:444
+Connection: close
+Accept-Encoding: gzip, deflate
+User-Agent: okhttp/3.10.0
+
+{"schemas":["urn:ietf:params:scim:api:messages:2.0:PatchOp"],"Operations":[{"op":"add","path":"urn:ietf:params:scim:schemas:extension:isam:1.0:MMFA:Authenticator:fingerprintMethods","value":[{"keyHandle":"fingerprint","algorithm":"SHA256withRSA","publicKey":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu8yGmPcgjRoQKsq7mheSOSLogGZc7cWUHAjoC1hfr4xlGrGmCAXYZkUnToMXXN+NEX27vExVLWCVvBlDoY0iuwgYf9kMfcPyKYgTssPN9ujlr30iGrXiSTTG5PmSYHuSvzQYP9AtkoZQNQziyi1J1hm\/ypoNzQhOvm6SPMVvFNGDigsLlJsiDcq+Z1ns8SSUU0q0G+9f3InhhYeNGIbTIn+ICg2biBZ0tNj5WOsokLKS8qYNgw73951QMdeWx615h6I0+mCkZN7NVD7sdriNXKkEJwf\/ORPERystuZznj37MEnPZQdtyz8It2JuFM34R3q\/J6\/ZoXG7UZ0mRBWDJxQIDAQAB","enabled":true}]}]}
