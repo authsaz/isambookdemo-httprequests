@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+connection: close
+content-language: en-US
+content-type: application/json
+date: Tue, 15 Jan 2019 06:45:14 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+cache-control: no-store
+strict-transport-security: max-age=31536000; includeSubDomains
+pragma: no-cache
+
+{"result":"FBTRBA201I The authorization grant uuid471802d0-0168-1703-b9e5-959f6387d879 was removed successfully."}
